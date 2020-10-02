@@ -9,6 +9,7 @@ public class hellojava {
 	f.put("Emer", "fani");
 	f.put("Mbiemer", "gjoni");
 	f.put("mosha", 30);
+	System.out.println("Bosi je njish");
 	
 	System.out.println(f);
 	}
